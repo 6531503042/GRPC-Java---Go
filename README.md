@@ -1,4 +1,5 @@
-![gRPC Logo](https://grpc.io/img/logos/grpc-icon-color.png)
+<img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC Logo" width="200"/>
+
 
 ## Overview
 The gRPC Microservices Management System for User Management is designed to demonstrate a robust, scalable, and efficient architecture using gRPC for communication between services. This project incorporates both Java (Spring Boot) and Go (JIN framework) to provide a comprehensive example of a microservices-based user management system.
